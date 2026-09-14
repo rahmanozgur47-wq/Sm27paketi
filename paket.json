@@ -1,5 +1,6 @@
+ 
 {
-  "packName": "Ozel Paketime Hosgeldiniz",
+  "packName": "Ozel Paket",
   "author": "Rahman",
   "version": "1.0",
   "teams": [
@@ -7,5 +8,6 @@
       "name": "Trabzonspor",
       "rating": 85
     }
-  ]
-}  
+  ],
+  "players": []
+}
